@@ -88,15 +88,15 @@ fun_fact: I turn caffeine into intelligent code ☕→🤖
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hi0424&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&ring_color=A855F7" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hitanshinahar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&ring_color=A855F7" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi0424&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitanshinahar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages" />
 
   <br/>
   <br/>
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hi0424&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitanshinahar&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
 
 </div>
 
@@ -118,7 +118,7 @@ fun_fact: I turn caffeine into intelligent code ☕→🤖
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=hi0424&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hitanshinahar&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
@@ -128,7 +128,7 @@ fun_fact: I turn caffeine into intelligent code ☕→🤖
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hi0424&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hitanshinahar&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
