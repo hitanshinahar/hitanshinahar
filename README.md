@@ -111,17 +111,6 @@ fun_fact: I turn caffeine into intelligent code ☕→🤖
 </div>
 
 > **UPI Sahayak** — An AI-powered UPI dispute resolution system helping users navigate and resolve payment issues intelligently.
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=hitanshinahar&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-
-</div>
-
 ---
 
 ## 📈 Contribution Graph
