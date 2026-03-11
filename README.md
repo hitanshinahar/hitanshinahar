@@ -32,8 +32,6 @@
 
 ---
 
-## About Me
-
 ```yaml
 name: Hitanshi Nahar
 role: CSE (AI-ML) Student
@@ -84,8 +82,6 @@ fun_fact: I turn caffeine into intelligent code ☕→🤖
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hitanshinahar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&ring_color=A855F7" alt="GitHub Stats" />
@@ -112,8 +108,6 @@ fun_fact: I turn caffeine into intelligent code ☕→🤖
 
 > **UPI Sahayak** — An AI-powered UPI dispute resolution system helping users navigate and resolve payment issues intelligently.
 ---
-
-## 📈 Contribution Graph
 
 <div align="center">
 
