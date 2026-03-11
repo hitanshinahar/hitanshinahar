@@ -106,7 +106,7 @@ fun_fact: I turn caffeine into intelligent code ☕→🤖
 
 <div align="center">
 
-[![UPI Sahayak](https://github-readme-stats.vercel.app/api/pin/?username=hi0424&repo=UPI-Sahayak&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/hi0424/UPI-Sahayak)
+[![UPI Sahayak](https://github-readme-stats.vercel.app/api/pin/?username=hitanshinahar&repo=upi-sahayak&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/hitanshinahar/upi-sahayak)
 
 </div>
 
