@@ -25,7 +25,7 @@ Published Android applications on Google Play while exploring Agentic AI, Cloud 
 
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,flutter,dart,react,nextjs,ts,js,tailwind,nodejs,firebase,supabase,mongodb,postgres,docker,azure,git,github,figma,vscode&perline=10)](https://skillicons.dev)
 
-### 🤖 AI & Agentic Stack
+### AI & Agentic Stack
 
 LangGraph • LangChain • OpenAI SDK • Google GenAI SDK • Google ADK • Azure OpenAI • Ollama • MCP
 </p>
