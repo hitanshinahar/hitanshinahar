@@ -7,10 +7,10 @@ Published Android applications on Google Play while exploring Agentic AI, Cloud 
 <br />
 
 <p align="center">
-  <a href="https://github.com/hi0424">
+  <a href="https://github.com/hitanshinahar">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=hitanshinahar&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true"/>
   </a>
-  <a href="https://github.com/hi0424">
+  <a href="https://github.com/hitanshinahar">
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitanshinahar&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
   </a>
 </p>
