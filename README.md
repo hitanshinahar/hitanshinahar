@@ -1,8 +1,6 @@
 # Hey there! 👋
 
-Currently building AI-powered Full Stack Applications
-
-Published Android applications on Google Play while exploring Agentic AI, Cloud & Modern Backend Systems.
+Shipping Android apps while exploring Agentic AI, cloud infrastructure and modern backend systems.
 
 <br />
 
